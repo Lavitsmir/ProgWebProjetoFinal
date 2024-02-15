@@ -1,0 +1,67 @@
+body {
+    background-image: url(wallpaper.png);
+    background-color: black;
+    text-align: center;
+}
+
+#Ordo {
+    text-align: center;
+    color: white;
+}
+
+#Realitas {
+    text-align: center;
+    color: white;
+}
+
+#Botao1 {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: rgba(245, 245, 245, 0.623);
+    color: black;
+    border-radius: 5px;
+}
+#Botao1 {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: rgba(245, 245, 245, 0.623);
+    color: black;
+    border-radius: 5px;
+}
+
+#Botao2 {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: rgba(245, 245, 245, 0.623);
+    color: black;
+    border-radius: 5px;
+}
+
+#Botao3 {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: rgba(245, 245, 245, 0.623);
+    color: black;
+    border-radius: 5px;
+}
+
+table tr {
+    border: white 1px solid;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#TabelaAgentes {
+    border: white 1px solid;
+    width: 100%
+}
+
+#TabelaAgentesTD {
+    border: rgba(245, 245, 245, 0.623) 1px solid;
+    text-align: center;
+    color: white;
+}
